@@ -23,7 +23,7 @@ The goal of this project is to provide decision-makers with clear, data-driven i
 
 ## 📈 Key Insights
 - Identified **top-performing products** and **highest revenue-generating regions**  
-- Analyzed **quaterly sales trends** to monitor performance over time  
+- Analyzed **quarterly sales trends** to monitor performance over time  
 - Evaluated **customer contribution** to total revenue  
 - Provided actionable insights for **strategic sales planning**
 
@@ -36,5 +36,6 @@ The goal of this project is to provide decision-makers with clear, data-driven i
 - Geographic heat maps showing **regional performance**
 
 ---
+
 
 
